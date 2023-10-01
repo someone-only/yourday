@@ -11,7 +11,7 @@ import particle from "./components/particle.vue";
   <div class="container">
     <p>
       Semoga panjang umur, Sehat selalu, Bisa menjadi pribadi yang lebih baik,
-      Makin dewasa, Dan semoga apa yang kamu inginkan semoga terwujud
+      Makin dewasa, Dan semoga apa yang kamu inginkan terwujud
     </p>
   </div>
 </template>
